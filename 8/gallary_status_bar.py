@@ -47,15 +47,16 @@ def next_image():
     global current_image_index
     current_image_index += 1
     show_image()
-    status = Label(root, text=f"image {current_image_index+1} of {len(image_paths)}", bd=1, relief=SUNKEN, anchor=E)
-    status.grid(column=0, row=3, columnspan=3, sticky=W+E)
+    status = Label(root, text=f"image {current_image_index + 1} of {len(image_paths)}", bd=1, relief=SUNKEN, anchor=E)
+    status.grid(column=0, row=3, columnspan=3, sticky=W + E)
+
 
 # Define the prev_image() function to display the previous image
 def prev_image():
     global current_image_index
     current_image_index -= 1
     show_image()
-    status = Label(root, text=f"image {current_image_index+1} of {len(image_paths)}", bd=1, relief=SUNKEN, anchor=E)
+    status = Label(root, text=f"image {current_image_index + 1} of {len(image_paths)}", bd=1, relief=SUNKEN, anchor=E)
     status.grid(column=0, row=3, columnspan=3, sticky=W + E)
 
 
@@ -75,7 +76,7 @@ backward_button.grid(column=1, row=2)
 # Set the current image index and display the first image
 current_image_index = 0
 show_image()
-status = Label(root, text=f"image {current_image_index+1} of {len(image_paths)}", bd=1, relief=SUNKEN, anchor=E)
-status.grid(column=0, row=3, columnspan=3, sticky=W+E)
+status = Label(root, text=f"image {current_image_index + 1} of {len(image_paths)}", bd=1, relief=SUNKEN, anchor=E)
+status.grid(column=0, row=3, columnspan=3, sticky=W + E)
 # Start the main event loop
 root.mainloop()

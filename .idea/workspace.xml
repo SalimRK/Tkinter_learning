@@ -31,11 +31,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/MyPC/Projects/coding/python/Tkinter_learning/7/images"
+    "last_opened_file_path": "D:/MyPC/Projects/coding/python/Tkinter_learning/8"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyPC\Projects\coding\python\Tkinter_learning\8" />
       <recent name="D:\MyPC\Projects\coding\python\Tkinter_learning\7\images" />
       <recent name="D:\MyPC\Projects\coding\python\Tkinter_learning\6" />
       <recent name="D:\MyPC\Projects\coding\python\Tkinter_learning\4" />
@@ -47,29 +48,7 @@
       <recent name="D:\MyPC\Projects\coding\python\Tkinter_learning\1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gallary">
-    <configuration name="buttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Tkinter_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/buttons.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.gallary_status_bar">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tkinter_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,6 +115,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="gallary_status_bar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tkinter_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8/gallary_status_bar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tkinter_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gallary_status_bar" />
         <item itemvalue="Python.gallary" />
         <item itemvalue="Python.image" />
         <item itemvalue="Python.calculator" />
         <item itemvalue="Python.entry" />
-        <item itemvalue="Python.buttons" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677359465349</updated>
       <workItem from="1677359587182" duration="7985000" />
-      <workItem from="1677406954044" duration="2779000" />
+      <workItem from="1677406954044" duration="5363000" />
     </task>
     <servers />
   </component>
@@ -187,10 +188,11 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tkinter_learning$hello.coverage" NAME="hello Coverage Results" MODIFIED="1677359969139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tkinter_learning$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1677408428888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/Tkinter_learning$gallary_status_bar.coverage" NAME="gallary_status_bar Coverage Results" MODIFIED="1677411937943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8" />
     <SUITE FILE_PATH="coverage/Tkinter_learning$grid.coverage" NAME="grid Coverage Results" MODIFIED="1677360464822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2" />
     <SUITE FILE_PATH="coverage/Tkinter_learning$image.coverage" NAME="image Coverage Results" MODIFIED="1677408667034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
     <SUITE FILE_PATH="coverage/Tkinter_learning$buttons.coverage" NAME="buttons Coverage Results" MODIFIED="1677361002897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
-    <SUITE FILE_PATH="coverage/Tkinter_learning$gallary.coverage" NAME="gallary Coverage Results" MODIFIED="1677409755680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7" />
+    <SUITE FILE_PATH="coverage/Tkinter_learning$gallary.coverage" NAME="gallary Coverage Results" MODIFIED="1677409985788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7" />
     <SUITE FILE_PATH="coverage/Tkinter_learning$entry.coverage" NAME="entry Coverage Results" MODIFIED="1677362274784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
   </component>
 </project>
